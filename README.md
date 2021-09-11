@@ -1,1 +1,1 @@
-# University-website-Templet
+# University-website-Template
